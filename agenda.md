@@ -1,2 +1,5 @@
-## 2014 - 2015 Agenda
+# Club Agenda
 
+## Projects
+
+## Community Outreach
