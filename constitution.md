@@ -1,4 +1,4 @@
-# Tenafly High School Computer Programming Club Constitution
+# Constitution
 
 ## Article I
 ### Name
