@@ -47,6 +47,9 @@ The four leaders will occupy one of the following positions:
 
 + **Secretary** - Keeps a log of what is discussed at each meeting. Keeps tabs on who is focusing on what language, discipline, etc., (ex: Frank – C++ Game Development).
 
++ **Webmaster** - Responsible for creating and updating the conent of the club's website and informing the public about our mission and latest contributions. 
+
+
 A. Duties of the Leaders (General):
 + To work together in order to make the club as successful as possible. Success can be defined in many ways; happy members, success in competitions, large member base, etc.
 + To promote the club in any way they can; talking about the club with friends, putting up posters, etc.
